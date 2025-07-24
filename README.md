@@ -43,12 +43,15 @@ To_DO_List_Python/
 2. Clone or download the repository.
 
 3. Run the test case:
+- Python
    ```bash
    from the
    python tests/test_case.py
    or
    python -m unittest tests/test_case.py
    ```
+- Java
+- Use intelliJ
 
 ## Assumptions made in Automation Testing
 
