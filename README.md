@@ -50,7 +50,7 @@ To_DO_List_Python/
    python -m unittest tests/test_case.py
    ```
 
-## Assumptions made in Manual Testing
+## Assumptions made in Automation Testing
 
 - Web application is publicly accessible.
 - No login required.
